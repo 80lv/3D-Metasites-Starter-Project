@@ -87,22 +87,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SequencerAnimTools",
-			"Enabled": false
-		},
-		{
-			"Name": "ControlRigSpline",
-			"Enabled": false
-		},
-		{
-			"Name": "IKRig",
-			"Enabled": false
-		},
-		{
-			"Name": "ControlRig",
-			"Enabled": false
-		},
-		{
 			"Name": "SpeedTreeImporter",
 			"Enabled": false
 		},
